@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-gemini-image",
-  "description": " 即开即用的gemini，可识别图片，没有上下文记忆",
-  "version": "0.0.1",
+  "description": "即开即用的gemini，没有上下文记忆，但可识别图片",
+  "version": "0.0.3",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -9,13 +9,11 @@
     "dist"
   ],
   "license": "MIT",
-  "scripts": {},
   "keywords": [
     "chatbot",
     "koishi",
     "plugin"
   ],
-  "devDependencies": {},
   "peerDependencies": {
     "koishi": "^4.17.1"
   }
