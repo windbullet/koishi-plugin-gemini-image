@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-gemini-image",
   "description": "即开即用的gemini，没有上下文记忆，但可识别图片",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -9,6 +9,11 @@
     "dist"
   ],
   "license": "MIT",
+  "homepage": "https://github.com/windbullet/koishi-plugin-gemini-image",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windbullet/koishi-plugin-gemini-image.git"
+  },
   "keywords": [
     "chatbot",
     "koishi",
